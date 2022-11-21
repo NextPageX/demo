@@ -1,3 +1,4 @@
 Hello git
 Hello git two
-hot-fix master test
+<<<<<<< HEAD
+hot-fix hot-fix test
